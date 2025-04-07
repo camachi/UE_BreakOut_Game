@@ -1,0 +1,21 @@
+# Ignorar archivos temporales y binarios
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio
+*.sln
+*.sdf
+*.opensdf
+*.VC.db
+*.user
+*.suo
+
+# Archivos de caché
+*.log
+*.tmp
+*.cache
+*.obj
+*.pdb
